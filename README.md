@@ -10,7 +10,7 @@ Time spent: **40** hours spent in total
 
 Here's a walkthrough of implemented user stories: 
 
-<img src='https://imgur.com/a/5OIb4vP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+<img src='https://github.com/github-pratik/CodePath_HobbyHub/blob/main/hobbyhub.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
 ## Required Features 
 
