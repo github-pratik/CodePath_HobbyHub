@@ -6,6 +6,12 @@ This web app: **A platform for hobby enthusiasts to share and discuss their inte
 
 Time spent: **40** hours spent in total 
 
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories: 
+
+<img src='https://imgur.com/a/5OIb4vP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+
 ## Required Features 
 
 The following **required** functionality is completed: 
@@ -53,13 +59,7 @@ The following **additional** features are implemented:
 * [x] Real-time updates using Supabase 
 * [x] Responsive design for mobile devices 
 
-## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories: 
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
-
-GIF created with Kap 
 
 ## Notes 
 
